@@ -1,11 +1,14 @@
 <script>
+export default {
 
+}
 </script>
 
 <template>
-  <h1>Ciao a tutti</h1>
+  <h2>appHome</h2>
 </template>
 
-<style scoped>
+<style>
 
 </style>
+
